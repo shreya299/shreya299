@@ -44,7 +44,8 @@ I also bring strong **business analytics  and quality analysis experience** in d
   
 ## 📜 Certifications
 - [CompTIA Security+ ce](https://www.credly.com/badges/e07ded14-cebf-4aa7-9958-b8f6c18ef684/public_url) *(valid until 2028)*  
-- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e8b8d030-2dfc-4ef9-b97c-757bf4dbbd86/public_url) *(valid until 2028)* 
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e8b8d030-2dfc-4ef9-b97c-757bf4dbbd86/public_url) *(valid until 2028)*
+
 
 ## 📂 Projects
 ### 🔐 Cybersecurity
