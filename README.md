@@ -1,6 +1,9 @@
 ## Hi👋,I'm Shreya
 
 <a href="www.linkedin.com/in/sai-shreya-challa-905000160"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chsaishreya@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 🎓 Recent graduate with dual Postgraduate Diplomas in **Cybersecurity** (2024) and **Business Analytics** (2023) from Cambrian College.  
 🔐 Passionate about **threat analysis, vulnerability assessment, and SOC operations**, while also skilled in **data-driven analytics and dashboards**.  
@@ -39,21 +42,17 @@ I also bring strong **business analytics  and quality analysis experience** in d
 - Test Automation basics (Postman, TestNG)  
 - Documentation & Reporting
   
-### Network
-<div>
-   -Wireshark
-### Endpoint
-Microsoft_Defender_for_Endpoint
-### SIEM
-Splunk
-
 ## 📜 Certifications
 - [CompTIA Security+ ce](https://www.credly.com/badges/e07ded14-cebf-4aa7-9958-b8f6c18ef684/public_url) *(valid until 2028)*  
 - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e8b8d030-2dfc-4ef9-b97c-757bf4dbbd86/public_url) *(valid until 2028)* 
 
+## 📂 Projects
+### 🔐 Cybersecurity
+- **[Secure Score Capstone](https://github.com/CHANGEME/cybersecurity-secure-score)** – Evaluated M365 Secure Score, identified misconfigurations, and recommended improvements across Identity, Device, and App controls.  
+- **[Security Log Analysis](https://github.com/CHANGEME/cybersecurity-log-analysis)** – Used SIEM concepts (Splunk/ELK) with demo data to detect brute force attempts and suspicious login patterns.  
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-- Vulnerability Testing
-- 
+### 📊 Business Analytics
+- **[Sofvie Analytics Capstone](https://github.com/CHANGEME/businessanalytics-sofvie)** – Delivered structured documentation and research for scalable analytics system.  
+- **[Sales Dashboard](https://github.com/CHANGEME/businessanalytics-sales-dashboard)** – Cleaned sample sales data, built dashboard (Excel/Power BI), and provided insights on customer trends and revenue.  
+
+---
