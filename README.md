@@ -1,144 +1,84 @@
-## Hi 👋, I'm Shreya
+Hi, I’m Shreya
 
-<a href="https://www.linkedin.com/in/sai-shreya-challa-905000160/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:chsaishreya@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+I’m a Business / Systems Analyst with a background in computer science and business analytics.
+I work with data, reports, and system-level information to support analysis and decision-making.
 
-🎓 Recent graduate with dual Postgraduate Diplomas in **Cybersecurity** (2024) and **Business Analytics** (2023).  
-🔐 Passionate about **SIEM analytics, cyber risk reporting, threat detection, and SOC operations**.  
-📊 Strong analytical foundation in **Python, Power BI, SQL, and data visualization**.  
-🛡️ Actively building projects that demonstrate real-world cyber defense and analytical capabilities.
+My experience includes analytics projects, QA-focused application work, and system/event data analysis.
+I’m most comfortable working with SQL, Power BI, Excel, and documentation-heavy workflows where accuracy, validation, and clarity matter.
+
+I also have formal training in cybersecurity, which helps me better understand systems, controls, and data integrity when working with logs and operational data.
 
 ---
 
-## 🎯 Objective
-To begin my career as a **Cybersecurity Analyst / Technical Analyst** where I can apply hands-on experience in log analysis, incident response, SIEM reporting, and data-driven risk insights.  
-I bring a rare combination of **cybersecurity**, **data analytics**, and **QA testing**, enabling a holistic approach to problem solving.
+**LinkedIn:** [https://www.linkedin.com/in/sai-shreya-challa-905000160](https://www.linkedin.com/in/sai-shreya-challa-905000160)  
+**GitHub:** [https://github.com/shreya299](https://github.com/shreya299)  
+**Email:** chsaishreya@gmail.com
 
 ---
 
-# 🛠️ Skills & Associated Projects
+**Skills and Related Projects**
 
-| Skill Area | Project Showcase |
-|------------|------------------|
-| **SIEM Log Analysis & KRI Reporting** | 🔹 [SIEM Cyber Analytics Dashboard](https://github.com/shreya299/Cybersecurity_Projects/tree/main/SIEM-Cyber-Analytics-Dashboard) |
-| **Business Intelligence & Power BI** | 🔹 [Global Sales PowerBI Analytics](https://github.com/shreya299/Business_analytics-projects/tree/main/Global-Sales-PowerBI-Analytics) |
-| **Incident Response & Threat Analysis** | 🔹 [Incident Response & Penetration Lab](https://github.com/shreya299/Cybersecurity_Projects/tree/main/Incident-Response-Penetration-Lab) |
-| **Vulnerability Assessment & Hardening** | 🔹 [Metasploitable3 Hardening Project](https://github.com/shreya299/Cybersecurity_Projects/tree/main/metasploitable3-hardening) |
-| **Python Data Analysis & Visualization** | 🔹 [NY Motor Vehicle Accident Analysis](https://github.com/shreya299/Business_analytics-projects/tree/main/newyork_motorvehicleaccident_analysis) |
-| **Manual & API Testing** | 🔹 [QA Banking Application Testing](https://github.com/shreya299/QA_Testing_Demo_Project) |
-
----
-
-# 🧰 Tools
-
-### **Cybersecurity**
-- SIEM Analysis (Python-based log parsing, Splunk/Sentinel concepts)  
-- Wireshark, Nmap, Nessus, Metasploit  
-- Microsoft Secure Score, Defender Exposure Management  
-- Incident Response & Threat Investigation  
-- Linux Hardening & Vulnerability Remediation  
-
-### **Business Analytics**
-- Power BI (DAX, Power Query, Data Modeling)  
-- SQL, Advanced Excel  
-- Python (pandas, matplotlib, seaborn)  
-
-### **QA / Testing**
-- Postman API Testing  
-- Test Case Design (Functional + Negative Scenarios)  
-- TestNG basics  
-- Documentation, defect reporting, QA workflow  
+| **Skill Area** | **Related Projects** |
+|---------------|----------------------|
+| Business Intelligence & Reporting | [Global Sales Power BI Analytics](https://github.com/shreya299/Business_analytics-projects/tree/main/Global-Sales-PowerBI-Analytics) |
+| Data Analysis & Trend Identification | [NYC Motor Vehicle Accident Analysis](https://github.com/shreya299/Business_analytics-projects/tree/main/newyork_motorvehicleaccident_analysis) |
+| SQL-Based Data Validation | Cognizant insurance application work (project-based) |
+| Dashboard Design & KPIs | [Sales Performance Power BI Dashboard](https://github.com/shreya299/Business_analytics-projects/tree/main/Global-Sales-PowerBI-Analytics) |
+| System & Event Data Analysis | [System Event Analytics Dashboard](https://github.com/shreya299/Cybersecurity_Projects/tree/main/SIEM-Cyber-Analytics-Dashboard) |
+| QA & Functional Testing | [QA Banking Application Testing Project](https://github.com/shreya299/QA_Testing_Demo_Project) |
+| Risk & Controls Awareness | [Cybersecurity Labs & Exercises](https://github.com/shreya299/Cybersecurity_Projects) |
 
 ---
 
-# 📜 Certifications
-- 🛡️ [CompTIA Security+ ce](https://www.credly.com/badges/e07ded14-cebf-4aa7-9958-b8f6c18ef684/public_url) *(Valid to 2028)*  
-- 🛡️ [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e8b8d030-2dfc-4ef9-b97c-757bf4dbbd86/public_url) *(Valid to 2028)*  
+**Featured Projects**
+
+**1. Sales Performance & Market Insights (Power BI)**  
+**Repository:**  https://github.com/shreya299/Business_analytics-projects/tree/main/Global-Sales-PowerBI-Analytics  
+
+This project analyzes global sales data to identify performance trends, product contributions, and regional patterns.
+I built Power BI dashboards to track KPIs and support reporting for sales and operations.
+
+**Tools:** Power BI, Excel  
+**Focus:** reporting, KPIs, trend analysis, dashboard design
+
+
+**2. Operational & Trend Analysis – NYC Motor Vehicle Accidents**  
+**Repository:**  https://github.com/shreya299/Business_analytics-projects/tree/main/newyork_motorvehicleaccident_analysis  
+
+In this project, I analyzed public datasets to identify patterns related to accident frequency, timing, location, and contributing factors.
+The goal was to turn raw data into insights that could support planning and risk awareness.
+
+**Tools:** Power BI, Excel, basic Python  
+**Focus:** data cleaning, trend analysis, visualization
+
+
+**3. System Event Analytics Dashboard**  
+**Repository:**  https://github.com/shreya299/Cybersecurity_Projects/tree/main/SIEM-Cyber-Analytics-Dashboard  
+
+This project focuses on analyzing system and event log data to identify trends, anomalies, and potential risk indicators.
+I created dashboards to summarize findings and support system-level reporting.
+
+**Tools:** Power BI, basic scripting  
+**Focus:** log analysis, pattern recognition, system behavior
 
 ---
 
-# 📂 Featured Projects
+**Additional Technical Background (Supporting Experience)**
+
+Alongside analytics work, I’ve completed hands-on projects related to cybersecurity and QA testing.
+These are supporting experiences that help me understand how systems behave in real environments.
+
+**Cybersecurity projects include:**
+- [Incident Response & Penetration Testing Lab](https://github.com/shreya299/Cybersecurity_Projects/tree/main/Incident-Response-Penetration-Lab)
+- [Metasploitable3 Vulnerability Assessment & Hardening](https://github.com/shreya299/Cybersecurity_Projects/tree/main/metasploitable3-hardening)
+- Security log review and event analysis exercises
+
+**QA-related work includes:**
+- [QA Banking Application – Manual & API Testing](https://github.com/shreya299/QA_Testing_Demo_Project)
+- Test case design, API validation, and defect documentation
 
 ---
 
-## 🔐 Cybersecurity Projects
-
-### **1️⃣ SIEM Cyber Analytics Dashboard**  
-📌 *Repo:* https://github.com/shreya299/Cybersecurity_Projects/tree/main/SIEM-Cyber-Analytics-Dashboard  
-**Highlights:**  
-- Parsed Windows security logs using Python  
-- Performed failed logon analysis & anomaly detection  
-- Generated KRI reports for cyber risk monitoring  
-- Created professional visualizations for SOC reporting  
-- Includes notebook, CSVs, and security chart outputs  
-
----
-
-### **2️⃣ Incident Response & Penetration Testing Lab**  
-📌 *Repo:* https://github.com/shreya299/Cybersecurity_Projects/tree/main/Incident-Response-Penetration-Lab  
-**Highlights:**  
-- Conducted reconnaissance & scanning (Nmap, Nessus)  
-- Exploited ProFTPD vulnerability with Metasploit  
-- Performed forensic log review and incident documentation  
-- Demonstrated attacker kill-chain understanding  
-
----
-
-### **3️⃣ Metasploitable3 Hardening Project**  
-📌 *Repo:* https://github.com/shreya299/Cybersecurity_Projects/tree/main/metasploitable3-hardening  
-**Highlights:**  
-- Executed vulnerability scans before/after remediation  
-- Patched services, configured firewall & OSHardening  
-- Documented findings in a structured hardening report  
-
----
-
-## 📊 Business Analytics Projects
-
-### **1️⃣ Global Sales PowerBI Analytics**  
-📌 *Repo:* https://github.com/shreya299/Business_analytics-projects/tree/main/Global-Sales-PowerBI-Analytics  
-**Highlights:**  
-- Designed a multi-country Power BI dashboard  
-- Created market share, year-over-year & manufacturer KPIs  
-- Developed a star schema + clean ETL transformations  
-- Delivered polished visuals & executive insights  
-
----
-
-### **2️⃣ New York Motor Vehicle Accident Analysis**  
-📌 *Repo:* https://github.com/shreya299/Business_analytics-projects/tree/main/newyork_motorvehicleaccident_analysis  
-**Highlights:**  
-- Cleaned and modelled crash data  
-- Identified patterns by severity, time, and location  
-- Visualized risk factors using Python + BI tools  
-
----
-
-## 🧪 QA / Testing Project
-
-### **QA Banking Application – Manual & API Testing**  
-📌 *Repo:* https://github.com/shreya299/QA_Testing_Demo_Project  
-**Highlights:**  
-- Designed functional & negative test cases  
-- Performed API validation with Postman  
-- Documented defects and test evidence  
-- Demonstrated real enterprise QA methodology  
-
----
-
-# ✨ Quick Summary
-
-- Strong foundation in **cybersecurity, SIEM analytics, and incident response**.  
-- Hands-on experience with **Python, Power BI, and security tooling**.  
-- Robust multi-domain portfolio across **cybersecurity, data analytics, and QA**.  
-- Committed to continuous learning and building real-world technical projects.  
-
----
-
-**Let's connect and collaborate!**  
-📬 Email: chsaishreya@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sai-shreya-challa-905000160/
+**Certifications**
+- CompTIA Security+  
+- ISC2 Certified in Cybersecurity (CC)
