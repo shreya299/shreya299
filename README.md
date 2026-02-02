@@ -1,84 +1,53 @@
-Hi, I’m Shreya
+# Hi, I’m Sai Shreya Challa 👋
 
-I’m a Business / Systems Analyst with a background in computer science and business analytics.
-I work with data, reports, and system-level information to support analysis and decision-making.
+I’m a **Business Analyst / Data Analyst** with 2+ years of experience supporting insight-driven decision-making through **SQL, Power BI, and business analysis**.
 
-My experience includes analytics projects, QA-focused application work, and system/event data analysis.
-I’m most comfortable working with SQL, Power BI, Excel, and documentation-heavy workflows where accuracy, validation, and clarity matter.
-
-I also have formal training in cybersecurity, which helps me better understand systems, controls, and data integrity when working with logs and operational data.
+My background spans data analysis, KPI reporting, and process improvement across retail operations and enterprise environments. I focus on translating business problems into clear analysis, dashboards, and documentation that support practical, data-driven decisions.
 
 ---
 
-**LinkedIn:** [https://www.linkedin.com/in/sai-shreya-challa-905000160](https://www.linkedin.com/in/sai-shreya-challa-905000160)  
-**GitHub:** [https://github.com/shreya299](https://github.com/shreya299)  
-**Email:** chsaishreya@gmail.com
+## 🔍 What I Work On
+
+- Analyzing sales and operational data using SQL and Power BI  
+- Defining KPIs and building reports that support day-to-day decision-making  
+- Mapping and improving business processes (AS-IS / TO-BE)  
+- Working with stakeholders to turn questions into clear analysis and documentation  
+- Ensuring data accuracy and reporting reliability in regulated environments  
 
 ---
 
-**Skills and Related Projects**
+## 📌 Featured Projects
 
-| **Skill Area** | **Related Projects** |
-|---------------|----------------------|
-| Business Intelligence & Reporting | [Global Sales Power BI Analytics](https://github.com/shreya299/Business_analytics-projects/tree/main/Global-Sales-PowerBI-Analytics) |
-| Data Analysis & Trend Identification | [NYC Motor Vehicle Accident Analysis](https://github.com/shreya299/Business_analytics-projects/tree/main/newyork_motorvehicleaccident_analysis) |
-| SQL-Based Data Validation | Cognizant insurance application work (project-based) |
-| Dashboard Design & KPIs | [Sales Performance Power BI Dashboard](https://github.com/shreya299/Business_analytics-projects/tree/main/Global-Sales-PowerBI-Analytics) |
-| System & Event Data Analysis | [System Event Analytics Dashboard](https://github.com/shreya299/Cybersecurity_Projects/tree/main/SIEM-Cyber-Analytics-Dashboard) |
-| QA & Functional Testing | [QA Banking Application Testing Project](https://github.com/shreya299/QA_Testing_Demo_Project) |
-| Risk & Controls Awareness | [Cybersecurity Labs & Exercises](https://github.com/shreya299/Cybersecurity_Projects) |
+### 📊 Sales Performance Analysis | SQL, Power BI  
+Analyzed multi-region retail sales data to identify KPIs, revenue trends, and underperforming segments. Built interactive Power BI dashboards to support comparative regional performance analysis and decision-making.
+
+🔗 Repo: https://github.com/shreya299/sales-performance-analysis-sql-powerbi
 
 ---
 
-**Featured Projects**
+### 📦 Order Fulfillment Process Improvement | Business Analysis, KPI Design  
+Simulated Business Analyst case study focused on improving retail order fulfillment operations. Documented AS-IS and TO-BE process flows, defined operational KPIs, and developed actionable recommendations to support proactive, data-driven improvements.
 
-**1. Sales Performance & Market Insights (Power BI)**  
-**Repository:**  https://github.com/shreya299/Business_analytics-projects/tree/main/Global-Sales-PowerBI-Analytics  
-
-This project analyzes global sales data to identify performance trends, product contributions, and regional patterns.
-I built Power BI dashboards to track KPIs and support reporting for sales and operations.
-
-**Tools:** Power BI, Excel  
-**Focus:** reporting, KPIs, trend analysis, dashboard design
-
-
-**2. Operational & Trend Analysis – NYC Motor Vehicle Accidents**  
-**Repository:**  https://github.com/shreya299/Business_analytics-projects/tree/main/newyork_motorvehicleaccident_analysis  
-
-In this project, I analyzed public datasets to identify patterns related to accident frequency, timing, location, and contributing factors.
-The goal was to turn raw data into insights that could support planning and risk awareness.
-
-**Tools:** Power BI, Excel, basic Python  
-**Focus:** data cleaning, trend analysis, visualization
-
-
-**3. System Event Analytics Dashboard**  
-**Repository:**  https://github.com/shreya299/Cybersecurity_Projects/tree/main/SIEM-Cyber-Analytics-Dashboard  
-
-This project focuses on analyzing system and event log data to identify trends, anomalies, and potential risk indicators.
-I created dashboards to summarize findings and support system-level reporting.
-
-**Tools:** Power BI, basic scripting  
-**Focus:** log analysis, pattern recognition, system behavior
+🔗 Repo: https://github.com/shreya299/order-fulfillment-ba-casestudy
 
 ---
 
-**Additional Technical Background (Supporting Experience)**
+## 🛠 Tools & Skills
 
-Alongside analytics work, I’ve completed hands-on projects related to cybersecurity and QA testing.
-These are supporting experiences that help me understand how systems behave in real environments.
+**Business Analysis:**  
+Requirements analysis, process mapping (AS-IS / TO-BE), gap analysis, stakeholder coordination, documentation  
 
-**Cybersecurity projects include:**
-- [Incident Response & Penetration Testing Lab](https://github.com/shreya299/Cybersecurity_Projects/tree/main/Incident-Response-Penetration-Lab)
-- [Metasploitable3 Vulnerability Assessment & Hardening](https://github.com/shreya299/Cybersecurity_Projects/tree/main/metasploitable3-hardening)
-- Security log review and event analysis exercises
+**Data Analytics & Reporting:**  
+SQL (joins, aggregations), Power BI dashboards, KPI reporting, trend analysis, data validation  
 
-**QA-related work includes:**
-- [QA Banking Application – Manual & API Testing](https://github.com/shreya299/QA_Testing_Demo_Project)
-- Test case design, API validation, and defect documentation
+**Tools:**  
+SQL, Power BI, Jira, Microsoft Excel, PowerPoint, SharePoint  
 
 ---
 
-**Certifications**
-- CompTIA Security+  
-- ISC2 Certified in Cybersecurity (CC)
+## 📫 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/sai-shreya-challa-905000160  
+- GitHub: https://github.com/shreya299  
+
+I’m always interested in roles and projects where data and business analysis come together to solve real operational problems.
